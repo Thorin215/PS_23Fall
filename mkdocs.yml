@@ -84,6 +84,8 @@ nav:
   
   - Tool:
     - Tool/index.md
+    - HexoBlog:
+      - Tool/Hexo/h1.md
     - MkDocs-Material:
       - Tool/mkdocs/MkDocs Material.md
       - Tool/mkdocs/Online personal notebook plan.md
@@ -106,6 +108,10 @@ nav:
     - Resume:
       - Tool/resume/resume.md
 
+  - DS:
+    - Review:
+      - DS/fds1.md
+  
 markdown_extensions:
   - abbr
   - admonition
