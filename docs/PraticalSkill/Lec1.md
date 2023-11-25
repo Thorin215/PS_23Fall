@@ -12,4 +12,4 @@ Shell就是命令行工具的胶水，没有任何语言能像Shell一样方便�
 
 ## Shell指令
 
-见CTF中的basic knowledge 以及 [zicx](https://github.com/cxzhou35)大佬的<a href="lec0.pdf">文档</a>。
+见CTF中的basic knowledge 以及 [zicx](https://github.com/cxzhou35)大佬的[文档](https://thorin-wang.oss-cn-hangzhou.aliyuncs.com/lec0.pdf)。
