@@ -1,7 +1,8 @@
 # 作业错题整理 
 
 ## HW1 (Algorithm Analysis)
- 
+
+
 >The Fibonacci number sequence ${F_N​}$ is defined as: F0​=0, F1​=1, FN​=FN−1​+FN−2​, N=2, 3, .... The time complexity of the function which calculates FN​ recursively is Θ(N!).    __Answer : F__
 >>Reason :  $O((\frac{\sqrt{5}+1}{2})^n)$
 

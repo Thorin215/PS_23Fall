@@ -63,55 +63,7 @@ extra:
       link: https://github.com/Thorin215/
       name: GitHub | charleschile
 
-# [Navigation]
-nav:
-  - Home:
-    - index.md
 
-  - PraticalSkill_23fall:
-    - LEC1:Shell and Linux:
-      - PraticalSkill/Lec1.md
-    - LEC2:Markdown:
-      - PraticalSkill/Lec2.md
-    - LEC3:Latex:
-      - PraticalSkill/Lec3.md
-
-  - CTF:
-    - BasicKnowledge:
-      - CTF/Basic.md
-    - SomethingInteresting:
-      - CTF/Security.md
-  
-  - Tool:
-    - Tool/index.md
-    - HexoBlog:
-      - Tool/Hexo/h1.md
-    - MkDocs-Material:
-      - Tool/mkdocs/MkDocs Material.md
-      - Tool/mkdocs/Online personal notebook plan.md
-      - Tool/mkdocs/MkDocs美化.md
-    - MacBook:
-      - Tool/mac/remacbook.md
-      - Tool/mac/troubleshooting.md
-    - MIT Missing Semester:
-      - Tool/MIT/missing_semester.md
-    - Systematic review and Meta-analysis:
-      - Tool/systematicReview/notes.md
-      - Tool/systematicReview/jhu.md
-      - Tool/systematicReview/bilibilil.md
-    - git:
-      - Tool/git/git.md
-    - Vim:
-      - Tool/vim/vim.md
-    - sublime text:
-      - Tool/sublime/sublime.md
-    - Resume:
-      - Tool/resume/resume.md
-
-  - DS:
-    - Review:
-      - DS/fds1.md
-  
 markdown_extensions:
   - abbr
   - admonition
@@ -153,4 +105,59 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - meta
+  
+extra_javascript:
+  - js/baidu-tongji.js
+  - javascripts/config.js
+  - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js
+  - js/katex.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# [Navigation]
+nav:
+  - Home:
+    - index.md
+
+  - PraticalSkill_23fall:
+    - LEC1:Shell and Linux:
+      - PraticalSkill/Lec1.md
+    - LEC2:Markdown:
+      - PraticalSkill/Lec2.md
+    - LEC3:Latex:
+      - PraticalSkill/Lec3.md
+
+  - CTF:
+    - BasicKnowledge:
+      - CTF/Basic.md
+    - SomethingInteresting:
+      - CTF/Security.md
+  
+  - Tool:
+    - Tool/index.md
+    - HexoBlog:
+      - Tool/Hexo/h1.md
+    - MkDocs-Material:
+      - Tool/mkdocs/MkDocs Material.md
+      - Tool/mkdocs/Online personal notebook plan.md
+      - Tool/mkdocs/MkDocs美化.md
+      - Tool/mkdocs/debug.md
+    - MacBook:
+      - Tool/mac/remacbook.md
+      - Tool/mac/troubleshooting.md
+    - MIT Missing Semester:
+      - Tool/MIT/missing_semester.md
+    - git:
+      - Tool/git/git.md
+    - Vim:
+      - Tool/vim/vim.md
+    - sublime text:
+      - Tool/sublime/sublime.md
+    - Resume:
+      - Tool/resume/resume.md
+
+  - DS:
+    - Review:
+      - DS/fds1.md
   
