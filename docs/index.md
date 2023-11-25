@@ -2,5 +2,6 @@
 
 <font face = "Roman New times">
 
-    - course:PraticalSkill_23fall
+!!!note  Course
+    - Course:PraticalSkill_23fall
     - TA:Thorin/YaoYaoling

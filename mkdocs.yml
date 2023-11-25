@@ -51,7 +51,7 @@ theme:
 # edit_uri: edit/main/docs # 编辑按钮跳转的链接
 
 ## [top-right corner]
-repo_url: https://thorin215.github.io/PS_23Fall # 右上角点击跳转的链接
+repo_url: https://github.com/Thorin215/PS_23Fall # 右上角点击跳转的链接
 repo_name: Thorin215/PS_23Fall # 右上角的名字
 ## [bottom-left corner]
 copyright: Copyright &copy; 2023 Thorin # 左下角的版权声明
@@ -76,6 +76,12 @@ nav:
     - LEC3:Latex:
       - PraticalSkill/Lec3.md
 
+  - CTF:
+    - BasicKnowledge:
+      - CTF/Basic.md
+    - SomethingInteresting:
+      - CTF/Security.md
+  
   - Tool:
     - Tool/index.md
     - MkDocs-Material:
