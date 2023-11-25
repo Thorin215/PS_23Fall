@@ -1,6 +1,6 @@
 # [Info]
 site_name: Practical_Skills_23Fall # 左上角的标题
-site_url: https://thorin215.github.io/PS_23Fall #这个是home page的位置，比如https://charleschile.github.io/Notebook，serve的话就会运行在http://127.0.0.1:8000/Notebook/
+site_url: https://ps_23fall.thorin215-wang.com 
 site_author: Thorin
 site_description: Practical_Skills_23Fall
 
